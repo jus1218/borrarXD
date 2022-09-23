@@ -1,2 +1,2 @@
 hola mundo
-utilizar el metodo fetch
+utilizar el metodo pull
